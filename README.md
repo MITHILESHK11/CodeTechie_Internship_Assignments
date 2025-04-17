@@ -72,7 +72,7 @@ CodeTechie_Internship_Assignments/
 
 Feel free to connect with me for any queries, suggestions, or feedback!
 
-- **Name**: Mithilesh Kumar
+- **Name**: Mithilesh Kolhapurkar
 - **GitHub**: [MITHILESHK11](https://github.com/MITHILESHK11)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mithilesh-kolhapurkar/)
 - **Email**: [m.kolhapurkar3529@gmail.com](mailto:m.kolhapurkar3529@gmail.com)
